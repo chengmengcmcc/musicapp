@@ -152,7 +152,7 @@
 ```
 git clone https://github.com/chengmengcmcc/musicapp.git
 
-cd vue-music
+cd musicapp
 
 npm install
 
